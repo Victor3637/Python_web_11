@@ -2,7 +2,7 @@
 
 [[package]]
 name = "helper"
-version = "1.12.1"
+version = "0.1"
 description = "A database migration tool for SQLAlchemy."
 optional = false
 python-versions = ">=3.7"
